@@ -1,0 +1,268 @@
+Microbiota,Disease
+H. pylori,Parkinson's Disease
+Lactobacillus,"Alzheimer's Disease,Anxiety,Autism,Bipolar Disorders,Depression,Major Depressive Disorder,Parkinson's Disease,Schizophrenia"
+S. thermophilus,"Anxiety,Bipolar Disorders,Depression,Major Depressive Disorder,Others,Schizophrenia"
+L. bulgaricus,"Anxiety,Depression,Others"
+L. lactis,"Anxiety,Depression"
+L. acidophilus,"Alzheimer's Disease,Anxiety,Autism,Depression,Major Depressive Disorder,Others"
+L. plantarum,"Alzheimer's Disease,Anxiety,Depression,Major Depressive Disorder,Others,Stress Syndrome"
+B. lactis,"Alzheimer's Disease,Anxiety,Depression,Others"
+L. reuteri,"Anxiety,Autism,Depression,Others"
+L. casei,"Alzheimer's Disease,Anxiety,Depression,Major Depressive Disorder,Others"
+L. paracasei,"Anxiety,Depression,Others"
+L. salivarius,"Anxiety,Depression,Others"
+B. bifidum,"Alzheimer's Disease,Anxiety,Depression,Major Depressive Disorder,Others"
+L. rhamnosus,"Anxiety,Autism,Depression,Major Depressive Disorder,Others,Schizophrenia"
+B. breve,"Alzheimer's Disease,Anxiety,Depression,Others"
+B. longum,"Alzheimer's Disease,Anxiety,Autism,Depression,Others"
+L. gasseri,"Anxiety,Depression,Parkinson's Disease"
+L. helveticus,"Anxiety,Depression,Others"
+C. butyricum,"Depression,Major Depressive Disorder,Others"
+Firmicutes,"Alzheimer's Disease,Major Depressive Disorder"
+Bacteroidetes,"Alzheimer's Disease,Depression,Major Depressive Disorder,Schizophrenia"
+Bifidobacterium,"Alzheimer's Disease,Anxiety,Attention deficit hyperactive disorder,Autism,Bipolar Disorders,Depression,Major Depressive Disorder,Parkinson's Disease"
+Clostridia,"Autism,Depression,Parkinson's Disease,Schizophrenia"
+Specific gut microbiota,"Alzheimer's Disease,Anxiety,Autism,Bipolar Disorders,Depression,Major Depressive Disorder,Parkinson's Disease,Post-Traumatic Stress Disorder,Schizophrenia"
+Ruminococcus gnavus,"Anxiety,Attention deficit hyperactive disorder,Autism,Bipolar Disorders,Depression,Major Depressive Disorder"
+Akkermansia,"Autism,Parkinson's Disease,Schizophrenia"
+Parabacteroides,"Autism,Major Depressive Disorder,Schizophrenia"
+Sutterella,"Autism,Schizophrenia"
+Erysipelotrichaceae,"Autism,Parkinson's Disease,Schizophrenia"
+Lachnospiraceae,"Alzheimer's Disease,Autism,Depression,Major Depressive Disorder,Parkinson's Disease"
+Desulfovibrio,"Autism,Parkinson's Disease"
+Prevotella,"Autism,Major Depressive Disorder,Parkinson's Disease,Rem sleep behavior disorder,Schizophrenia"
+Veillonella,"Autism,Major Depressive Disorder,Parkinson's Disease,Schizophrenia"
+B. fragilis,"Alzheimer's Disease,Autism,Others,Parkinson's Disease"
+Proteobacteria,Major Depressive Disorder
+Actinobacteria,"Alzheimer's Disease,Major Depressive Disorder"
+Coprococcus,"Autism,Bipolar Disorders,Major Depressive Disorder,Parkinson's Disease,Schizophrenia"
+Dialister,"Attention deficit hyperactive disorder,Autism,Major Depressive Disorder"
+Enterobacteriaceae,"Chronic fatigue syndrome,Depression,Parkinson's Disease"
+C. coccoides,Parkinson's Disease
+Escherichia,"Alzheimer's Disease,Major Depressive Disorder,Parkinson's Disease,Schizophrenia"
+Aquabacterium,Parkinson's Disease
+Holdemania,"Chronic fatigue syndrome,Parkinson's Disease"
+Sphingomonas,Parkinson's Disease
+Anaerotruncus,"Parkinson's Disease,Rem sleep behavior disorder"
+E. rectale,Alzheimer's Disease
+L. fermentum,"Alzheimer's Disease,Others"
+L. kefiranofaciens,Depression
+L. brevis,Depression
+B. infantis,"Depression,Others"
+Alistipes,"Chronic fatigue syndrome,Depression,Major Depressive Disorder,Parkinson's Disease"
+Faecalibacterium prausnitzii,"Anxiety,Autism,Bipolar Disorders,Depression,Major Depressive Disorder,Others,Parkinson's Disease"
+L. pentosus,Depression
+L. delbrueckii,Others
+B. CECT,Others
+L. curvatus,Others
+Enterococcus,"Autism,Bipolar Disorders,Major Depressive Disorder,Parkinson's Disease"
+Megasphaera,"Autism,Bipolar Disorders,Rem sleep behavior disorder,Schizophrenia"
+Haemophilus,"Autism,Parkinson's Disease,Schizophrenia"
+Roseburia,"Bipolar Disorders,Parkinson's Disease,Schizophrenia"
+Flavonifractor,"Bipolar Disorders,Major Depressive Disorder,Rem sleep behavior disorder"
+Oscillibacter,Bipolar Disorders
+Blautia,Parkinson's Disease
+Peptostreptococcaceae,Attention deficit hyperactive disorder
+Lachnoclostridium,Attention deficit hyperactive disorder
+Peptococcaceae,Attention deficit hyperactive disorder
+Moraxellaceae,"Attention deficit hyperactive disorder,Parkinson's Disease"
+Xanthomonadaceae,"Attention deficit hyperactive disorder,Parkinson's Disease"
+Faecalibacterium,"Attention deficit hyperactive disorder,Parkinson's Disease"
+Clostridium butyricum,Autism
+Ruminococcus flavefaciens,Autism
+Clostridium boltae,Autism
+Hathewaya histolytica,Autism
+Eubacterium coprostanoligenes,Autism
+Bifidobacterium longum,Autism
+Clostridium perfringens,Autism
+Clostridium cocleatum,Autism
+Bifidobacterium angulatum,Autism
+Bacteroides fragilis,"Autism,Parkinson's Disease"
+Desulfovibrio piger,Autism
+Paeniclostridium sordellii,Autism
+Clostridium bartlettii,Autism
+Bacteroides stercoris,Autism
+Clostridium disporicum,Autism
+Bacteroides massiliensis,"Autism,Parkinson's Disease"
+Shigella,Autism
+Ruminococcus torques,Autism
+Desulfovibrio desulfuricans,Autism
+Clostridium leptum,"Autism,Parkinson's Disease"
+Streptococcus salivarius,Autism
+Clostridium symbiosum,Autism
+Terrisporobacter glycolicus,Autism
+Erysipelatoclostridium ramosum,Autism
+Enterobacter hormaechei,Autism
+Parasutterella excrementihominis,Autism
+Clostridioides difficile,Autism
+Clostridium ramosum,Autism
+Bacillus,Autism
+Bacteriodes uniformis,Autism
+Roseburia inulinivorans,Autism
+Streptococcus thermophiles,"Autism,Schizophrenia"
+Roseburia faecis,Autism
+Ruminococcus obeum,Autism
+Barnesiella intestinihominis,Autism
+Bacteroides vulgatus,Autism
+Clostridia cluster i,Autism
+Prevotella copri,"Autism,Parkinson's Disease"
+Clostridium aminophilum,Autism
+Dialister invisus,Autism
+Oscillospira,"Autism,Parkinson's Disease"
+Clostridium asparagiform,Autism
+Odoribacter splanchnicus,Autism
+Clostridium aminobutyricum,Autism
+Sporobacter termitidis,Autism
+Subdoligranulum,Autism
+Bacteroides intestinalis,Autism
+Escherichia coli,Autism
+Dorea,"Autism,Parkinson's Disease"
+Clostridium spiroforme,Autism
+Klebsiella oxytoca,Autism
+Ruminococcus lactaris,Autism
+Flavonifractor plautii,Autism
+Veillonellaceae,Autism
+Collinsella,Autism
+Clostridium bolteae,Autism
+Clostridium hathewayi,Autism
+Alistipes putredinis,Autism
+Clostridium clostridioforme,Autism
+Alistipes onderdonkii,Autism
+Sutterella wadsworthensis,Autism
+Clostridium scindens,Autism
+Clostridium methylpentosum,Autism
+Sutterella stercoricanis,Autism
+Mitsuokella,"Autism,Rem sleep behavior disorder"
+Roseburia intestinalis,Autism
+Ruminococcus albus,Autism
+Alistipes indistinctus,Autism
+Phascolarctobacterium faecium,Autism
+Bacteroides coprocola,"Autism,Parkinson's Disease"
+Eubacterium ventriosum,Autism
+Eubacterium ruminantium,Autism
+Alistipes shahii,"Autism,Parkinson's Disease"
+Eubacterium siraeum,Autism
+Anaerofilum,Autism
+Caloramator,Autism
+Akkermansia muciniphila,"Autism,Parkinson's Disease"
+Paraclostridium bifermentans,Autism
+Desulfovibrio intestinalis,Autism
+Bifidobacterium adolescentis,Autism
+Prevotellaceae,"Autism,Parkinson's Disease"
+Blautia faecis,Autism
+Tyzzerella nexilis,Autism
+Clostridium innocuum,Autism
+Clostridium subterminale,Autism
+Eubacterium eligens,Autism
+Parabacteroides distasonis,Autism
+Prevotella oulorum,Autism
+Enterobacter cloacae,Autism
+Clostridium tertium,Autism
+Fusobacterium,Autism
+Peptostreptococcus,Autism
+Porphyromonas,Autism
+Neisseriaceae,Autism
+Mogibacterium,Autism
+Ruminococcaceae,"Autism,Chronic fatigue syndrome,Parkinson's Disease"
+Stomatobaculum,Autism
+Solobacterium,"Autism,Parkinson's Disease"
+Actinomyces,"Autism,Parkinson's Disease"
+Catonella,Autism
+Atopobium,Autism
+Corynebacterium,"Autism,Parkinson's Disease"
+Kingella,"Autism,Parkinson's Disease"
+Parvimonas,Autism
+Selenomonas,Autism
+Peptococcus,Autism
+Alloprevotella,Autism
+Tannerella,Autism
+Olsenella,Autism
+Streptococcus,"Autism,Parkinson's Disease"
+Treponema,Autism
+Oribacterium,Autism
+Rothia,"Autism,Parkinson's Disease"
+Lachnoanaerobaculum,Autism
+Cardiobacterium,Autism
+Butyrivibrio,Autism
+Enterococcus faecalis,Chronic fatigue syndrome
+Lactonifactor,Chronic fatigue syndrome
+Asaccharobacter,Chronic fatigue syndrome
+Streptococcus sanguinis,Chronic fatigue syndrome
+Bifidobacteriaceae,Chronic fatigue syndrome
+Syntrophococcus,Chronic fatigue syndrome
+Turicibacter,Chronic fatigue syndrome
+Moryella,"Chronic fatigue syndrome,Parkinson's Disease"
+Staphylococcus chromogenes,Chronic fatigue syndrome
+Ethanoligenens,Chronic fatigue syndrome
+Eubacterium,Chronic fatigue syndrome
+Ruminococcus,"Chronic fatigue syndrome,Parkinson's Disease"
+Desulfovibrionaceae,"Parkinson's Disease,Rem sleep behavior disorder"
+Rikenellaceae,Parkinson's Disease
+Blautia coccoides,Parkinson's Disease
+Coprococcus eutactus,Parkinson's Disease
+Butyricicoccus,Parkinson's Disease
+Bacteroides,Parkinson's Disease
+Lactobacillaceae,Parkinson's Disease
+Methanobrevibacter smithii,Parkinson's Disease
+Dorea longicatena,Parkinson's Disease
+Listeriaceae,Parkinson's Disease
+Clostridium saccharolyticum,Parkinson's Disease
+Carnobacteriaceae,Parkinson's Disease
+Ruminococcus bromii,Parkinson's Disease
+Stoquefichus massiliensis,Parkinson's Disease
+Bacteroides dorei,Parkinson's Disease
+Hyphomicrobiaceae,Parkinson's Disease
+Nitrososphaera,Parkinson's Disease
+Papillibacter cinnamivorans,Parkinson's Disease
+Ralstonia,Parkinson's Disease
+Klebsiella,Parkinson's Disease
+Gemella,Parkinson's Disease
+Bacillaceae,Parkinson's Disease
+Sediminibacterium,Parkinson's Disease
+Acinetobacter,Parkinson's Disease
+Clostridium xivb,"Parkinson's Disease,Rem sleep behavior disorder"
+Eubacterium biforme,Parkinson's Disease
+Enterococcaceae,Parkinson's Disease
+Micrococcaceae,Parkinson's Disease
+Verrucomicrobia,Parkinson's Disease
+Erysipelotrichia,Parkinson's Disease
+Catabacter hongkongensis,Parkinson's Disease
+Pasteurellaceae,Parkinson's Disease
+Paraprevotella,Parkinson's Disease
+Sphingobacterium,Parkinson's Disease
+Clostridium cluster iv,Parkinson's Disease
+Leptotrichia,Parkinson's Disease
+Hydrogenophilaceae,Parkinson's Disease
+Christensenella,Parkinson's Disease
+Capnocytophaga,Parkinson's Disease
+Neisseria,Parkinson's Disease
+Clostridium cluster xviii,Parkinson's Disease
+Lactobacillus mucosae,Parkinson's Disease
+Lachnospiraceae incertae sedis,Parkinson's Disease
+Bacteroides plebeius,Parkinson's Disease
+Rhizobiales,Parkinson's Disease
+Blautia glucerasea,Parkinson's Disease
+Ruminococcus callidus,Parkinson's Disease
+Christensenella minuta,Parkinson's Disease
+Proteus,Parkinson's Disease
+Barnesiellaceae,Parkinson's Disease
+Granulicatella,Parkinson's Disease
+Coriobacteriaceae,Parkinson's Disease
+Pasteurellales,Rem sleep behavior disorder
+Eggerthella,Rem sleep behavior disorder
+Catenibacterium,Rem sleep behavior disorder
+Oxalobacteraceae,Rem sleep behavior disorder
+Methanosphaera,Rem sleep behavior disorder
+Erysipelotrichaceae incertae sedis,Rem sleep behavior disorder
+Catenibacterium mitsuokai,Schizophrenia
+Halorubrum,Schizophrenia
+Ochrobactrum,Schizophrenia
+Saccharophagus,Schizophrenia
+Deferribacter,Schizophrenia
+Trophyrema,Schizophrenia
+Streptococcus gordonii,Schizophrenia
+Halothiobacillus,Schizophrenia
+Anabaena,Schizophrenia
+Gallionella,Schizophrenia
+Nitrosospira,Schizophrenia
+Eubacterium hallii,Schizophrenia
