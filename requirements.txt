@@ -1,0 +1,7 @@
+streamlit_book
+streamlit
+PIL
+matplotlib
+upsetplot
+streamlit_player
+pathlib
